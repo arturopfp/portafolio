@@ -81,6 +81,7 @@ body {
 }
 
 .main-container .header-container .main-banner-container .banner-text {
+  margin-top: 100px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
