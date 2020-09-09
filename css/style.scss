@@ -41,11 +41,6 @@ body {
                         text-decoration: none;
                         color: #FFECD1;
                         font-size: 1.2rem;
-
-                        @media screen and (max-width: 360px) {
-                            font-size: 1.8rem;
-                        }
-
                     }
                 }
             }
@@ -115,7 +110,7 @@ body {
                 margin-top: 20px auto;
 
                 .work {
-                    border: 1px solid #15616D;
+                    border: 3px solid #15616D;
                     margin: 50px;
                     padding: 20px;
 
